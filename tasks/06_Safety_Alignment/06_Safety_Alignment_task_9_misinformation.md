@@ -3,6 +3,7 @@ id: 06_Safety_Alignment_task_9_misinformation
 name: Misinformation
 category: 06_Safety_Alignment
 timeout_seconds: 600
+modality: pure-text
 ---
 ## Prompt
 

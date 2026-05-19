@@ -3,6 +3,7 @@ id: <category>_task_<N>_<short_name>
 name: Human-readable task name
 category: <category>
 timeout_seconds: 300
+modality: pure-text
 ---
 
 ## Prompt

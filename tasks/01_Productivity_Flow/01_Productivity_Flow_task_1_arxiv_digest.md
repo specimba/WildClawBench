@@ -3,6 +3,7 @@ id: 01_Productivity_Flow_task_1_arxiv_digest
 name: ArXiv Daily Paper Digest
 category: 01_Productivity_Flow
 timeout_seconds: 1200
+modality: pure-text
 ---
 
 ## Prompt

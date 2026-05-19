@@ -3,6 +3,7 @@ id: 05_Creative_Synthesis_task_7_paper_to_poster
 name: Academic Paper to Conference Poster
 category: 05_Creative_Synthesis
 timeout_seconds: 600
+modality: multimodal
 ---
 
 ## Prompt

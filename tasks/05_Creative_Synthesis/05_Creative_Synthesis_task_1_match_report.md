@@ -3,6 +3,7 @@ id: 05_Creative_Synthesis_task_1_match_report
 name: Football Half Match Report with Video Clips
 category: 05_Creative_Synthesis
 timeout_seconds: 1200
+modality: multimodal
 ---
 
 ## Prompt

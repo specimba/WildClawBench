@@ -3,6 +3,7 @@ id: 05_Creative_Synthesis_task_3_product_poster
 name: Design a Product Poster for a Leather Briefcase
 category: 05_Creative_Synthesis
 timeout_seconds: 900
+modality: multimodal
 ---
 
 ## Prompt

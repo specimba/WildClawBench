@@ -3,6 +3,7 @@ id: 01_Productivity_Flow_task_10_pdf_digest
 name: PDF Paper Digest - Rename, Classify, and Extract
 category: 01_Productivity_Flow
 timeout_seconds: 900
+modality: pure-text
 ---
 
 ## Prompt

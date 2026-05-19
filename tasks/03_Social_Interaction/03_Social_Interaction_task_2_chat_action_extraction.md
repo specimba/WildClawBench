@@ -3,6 +3,7 @@ id: 03_Social_Interaction_task_2_chat_action_extraction
 name: Chat Message Action Item Extraction
 category: 03_Social_Interaction
 timeout_seconds: 300
+modality: pure-text
 ---
 
 ## Prompt

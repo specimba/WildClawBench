@@ -3,6 +3,7 @@ id: 01_Productivity_Flow_task_7_openmmlab_contributors
 name: Summarize Main OpenMMLab Contributors
 category: 01_Productivity_Flow
 timeout_seconds: 900
+modality: pure-text
 ---
 
 ## Prompt

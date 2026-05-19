@@ -3,6 +3,7 @@ id: 03_Social_Interaction_task_5_chat_escalation_routing
 name: Customer Issue Escalation Routing
 category: 03_Social_Interaction
 timeout_seconds: 600
+modality: pure-text
 ---
 
 ## Prompt

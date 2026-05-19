@@ -3,6 +3,7 @@ id: 04_Search_Retrieval_task_11_fuzzy_repo_search
 name: Fuzzy Repository Search
 category: 04_Search_Retrieval
 timeout_seconds: 900
+modality: pure-text
 ---
 
 ## Prompt

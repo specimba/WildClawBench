@@ -3,6 +3,7 @@ id: 04_Search_Retrieval_task_3_constraint_search
 name: Constraint-Based Planning Search
 category: 04_Search_Retrieval
 timeout_seconds: 900
+modality: pure-text
 ---
 
 ## Prompt

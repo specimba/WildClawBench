@@ -3,6 +3,7 @@ id: 04_Search_Retrieval_task_1_google_scholar_search
 name: Find the connections between two researchers
 category: 04_Search_Retrieval
 timeout_seconds: 1200
+modality: pure-text
 ---
 
 ## Prompt

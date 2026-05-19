@@ -3,6 +3,7 @@ id: 01_Productivity_Flow_task_8_real_image_category
 name: Classify Mixed Images into 5 Categories
 category: 01_Productivity_Flow
 timeout_seconds: 600
+modality: multimodal
 ---
 
 ## Prompt
